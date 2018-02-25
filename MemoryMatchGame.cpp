@@ -164,6 +164,7 @@ void MemoryMatchGame::setUpGame(int level, int speed) {
    }
 }
 
+
 void MemoryMatchGame::loop()
 { 
       char comma;
