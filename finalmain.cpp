@@ -14,3 +14,4 @@ int main() {
       Game1.start();          
       // second line -  start game
 }
+
