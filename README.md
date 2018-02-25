@@ -1,13 +1,8 @@
-# MemoryMatchOOPs
-Memory match game
-App to search for movies and get details. App also shows a map of nearby movie theaters based on users location.
+# Memory Match Game
+Memory match game using OOPS concepts in C++.
 
 ## Built With
-- HTML
-- CSS
-- JavaScript
-- JQuery
-- Ajax
+- C++
 
 ### Author
 Krithika Thanigaivelan
