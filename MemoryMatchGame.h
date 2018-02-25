@@ -1,7 +1,6 @@
 #ifndef MEMORYMATCHGAME_H
 #define MEMORYMATCHGAME_H
 
-
 using namespace std;
 
 class MemoryMatchGame {
